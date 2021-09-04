@@ -1,6 +1,6 @@
 defmodule Phoenix.PubSub.Nats do
   @moduledoc """
-  Phoenix PubSub adapter based on Nats.
+  Phoenix PubSub adapter based on Nats. (Adopted version of [Phoenix.PubSub.Redis](https://github.com/phoenixframework/phoenix_pubsub_redis))
 
   To start it, list it in your supervision tree as:
 

@@ -1,6 +1,7 @@
 ## Phoenix.PubSub.Nats
 
 > A Nats PubSub adapter for the Phoenix framework
+> (Adopted version of [Phoenix.PubSub.Redis](https://github.com/phoenixframework/phoenix_pubsub_redis))
 
 ## Usage
 
